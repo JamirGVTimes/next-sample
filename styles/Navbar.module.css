@@ -1,0 +1,13 @@
+.links {
+    justify-content: center;
+    text-align: center;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 0 1rem;
+}
+.links li {
+    list-style: none;
+    color: dodgerblue;
+    display: flex;
+}
